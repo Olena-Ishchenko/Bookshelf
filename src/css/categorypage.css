@@ -11,6 +11,10 @@
   align-items: center;
 }
 
+.book-category-item:hover {
+  cursor: pointer;
+}
+
 .book-category-image {
   border-radius: 8px;
   width: 335px;
